@@ -1,5 +1,6 @@
 streamlit
-matplotlib.pyplot
+matplotlib
 pandas
 seaborn
 # ... any other libraries you use
+
